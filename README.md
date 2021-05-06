@@ -1,5 +1,5 @@
 # openpgpcomment
-This is a placeholder repo for the old OpenPGPComment Movable Typle plugin
+This is a placeholder repo for the old OpenPGPComment Movable Typle plugin.
 It has been retired for over a decade but is put up here with the hope that 
 it might be useful for others, somewhere, sometime.
 
